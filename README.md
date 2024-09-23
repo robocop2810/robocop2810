@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robocop2810
 - 👀 I’m interested in coding and creating
-- 🌱 I’m currently learning c++ and unity
+- 🌱 I’m currently working mostly with C and asm
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: {"email": "robbe.lauwers2810@gmail.com"}
 
